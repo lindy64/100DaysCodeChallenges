@@ -19,6 +19,7 @@ software/
 .todo
 count_lines.py
 .idea/
+__pycache__/
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
