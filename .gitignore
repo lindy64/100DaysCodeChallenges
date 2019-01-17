@@ -20,6 +20,7 @@ software/
 count_lines.py
 .idea/
 __pycache__/
+.ipynb_checkpoints/
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
