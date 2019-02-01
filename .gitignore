@@ -21,6 +21,7 @@ count_lines.py
 .idea/
 __pycache__/
 .ipynb_checkpoints/
+Pipfile.lock
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
